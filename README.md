@@ -1,7 +1,5 @@
 # webserver
 
-Group project, where I parsed configuration file and worked with CGI.
-
 Simple web-server, which is able to serve a fully static website.
 
 It works according to configuration file, where you can:
